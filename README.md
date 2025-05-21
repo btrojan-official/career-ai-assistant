@@ -3,7 +3,8 @@
 It is our project for KMS hackathon organized 21.05.25 in Cracow.
 This is social platform for disabled people, who want to start job in IT consisting of features like groups, AI tools (CV analysis, LinkedIn profile analysis etc.), News, special Job oppourtunities etc.
 
-https://docs.google.com/presentation/d/1LIo_mtoyiPCw2VYP6Fzoflsr3JiC-IH25aezQXPiWHc/edit?usp=sharing
+Hosted code: https://v0-skibidibi-iebxbax0x-lolekolek312-9184s-projects.vercel.app/dashboard
+Slides: https://docs.google.com/presentation/d/1LIo_mtoyiPCw2VYP6Fzoflsr3JiC-IH25aezQXPiWHc/edit?usp=sharing
 
 ## Quick setup using yarn
 ```bash
