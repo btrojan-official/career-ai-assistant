@@ -1,9 +1,9 @@
 # HackTheLimits
 
 It is our project for KMS hackathon organized 21.05.25 in Cracow.
-This is social platform for disabled people, who want to start job in IT consisting of features like groups, AI tools (CV analysis, LinkedIn profile analysis etc.), News, special Job oppourtunities etc.
+This is social platform for disabled people, who want to start job in IT consisting of features like groups, AI tools (CV analysis, LinkedIn profile analysis etc.), news, special job oppourtunities, etc.
 
-Hosted code: https://v0-skibidibi-iebxbax0x-lolekolek312-9184s-projects.vercel.app/dashboard
+Hosted code: https://v0-skibidibi-iebxbax0x-lolekolek312-9184s-projects.vercel.app/dashboard<br>
 Slides: https://docs.google.com/presentation/d/1LIo_mtoyiPCw2VYP6Fzoflsr3JiC-IH25aezQXPiWHc/edit?usp=sharing
 
 ## Quick setup using yarn
@@ -26,8 +26,8 @@ yarn start
 ## Authors
 - Barosz Trojan
 - Jan Juszczyk
-- <a href='https://github.com/ffenix7'>Filip Gębala </a>
-- Kamil Pawłowski
+- ![Filip Gębala](https://github.com/ffenix7)
+- ![Kamil Pawłowski](https://github.com/Kamix-08)
 - Oskar Biedroń
 
 
