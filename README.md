@@ -1,4 +1,4 @@
-# Hack The Limits
+# HackTheLimits
 
 It is our project for KMS hackathon organized 21.05.25 in Cracow.
 This is social platform for disabled people, who want to start job in IT consisting of features like groups, AI tools (CV analysis, LinkedIn profile analysis etc.), News, special Job oppourtunities etc.
@@ -26,7 +26,7 @@ yarn start
 ## Authors
 - Barosz Trojan
 - Jan Juszczyk
-- Filip Gębala
+- <a href='https://github.com/ffenix7'>Filip Gębala </a>
 - Kamil Pawłowski
 - Oskar Biedroń
 
