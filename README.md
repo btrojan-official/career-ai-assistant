@@ -24,7 +24,7 @@ yarn start
 ![image](https://github.com/user-attachments/assets/bfd6d015-1806-4c69-a38b-9877035ed219)
 
 ## Authors
-- Barosz Trojan
+- ![Barosz Trojan](https://github.com/btrojan-official)
 - Jan Juszczyk
 - ![Filip Gębala](https://github.com/ffenix7)
 - ![Kamil Pawłowski](https://github.com/Kamix-08)
